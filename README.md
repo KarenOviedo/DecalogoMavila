@@ -1,2 +1,2 @@
-# DecalogoMavila
-Proyecto 2: "Decálogo de Desarrollo, de Mavila"
+# 7habitos
+Proyecto 1: "Los 7 habitos de la gente altamente efectiva"
