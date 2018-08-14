@@ -707,6 +707,10 @@ textarea {
     width: 50%;
 }
 
+.block-1-10 .col-block {
+    width: 10%;
+}
+
 
 /**
  * Clearing for block grid columns. Allow columns with 
